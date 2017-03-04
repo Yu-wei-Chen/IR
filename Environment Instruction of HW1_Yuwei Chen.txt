@@ -1,0 +1,3 @@
+I implement the class in five different java file which are TrectextCollection.java, TrecwebCollection.java, WordTokenizer.java, WordNormalizer.java and StopWordRemover.java. You can copy those five file in to the original project to overwrite the empty file. Then you should put two data file which are docset.trectext and docset.trecweb in to the data folder. Final, you can run the HW1Main.java. 
+
+For the environment, I use eclipse with the JDK 1.8 to run the project. 

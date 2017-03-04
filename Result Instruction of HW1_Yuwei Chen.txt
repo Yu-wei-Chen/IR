@@ -1,0 +1,10 @@
+
+The text part :
+The totaly document count:  503473
+text corpus running time: 3.8746666666666667 min
+
+The web part:
+totaly document count:  198362
+web corpus running time: 10.441216666666667 min
+
+Total Time: 14.4 minutes
